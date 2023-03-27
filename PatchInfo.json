@@ -1,0 +1,18 @@
+{
+"Launch": {
+	"LatestVersion": 113,
+	"NewVersionUrl": "http://s3-hcm-r1.longvan.net/up.phongthanviet.com/Autoupdate_v113.7z"
+},
+"LoginServerUrl": "http://phongthanviet.com",
+"LatestVersion": "1.0",
+"Patches": [
+	
+	{
+		"VersionFrom": "0",
+		"VersionTo": "1.0",
+		"UpTime": "2023-03-27 06:00",
+		"Url": "http://s3-hcm-r1.longvan.net/up.phongthanviet.com/client_release.7z",
+		"Desc": "full client"
+	}
+]
+}
